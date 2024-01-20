@@ -1,0 +1,497 @@
+@media only screen and (max-width: 800px) {
+   header{
+     display: none;
+    }
+
+
+    /* sextion 1  */
+    
+    .respon-sec1{
+        width: 100%;
+        height: 160px;
+        display: block;
+        border: 1px solid ;
+        background-image: url(iamges/WhatsApp\ Image\ 2024-01-19\ at\ 9.50.26\ PM.jpeg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        display: flex ;
+        padding-top: 4%;
+
+      }
+      .respo-left-icon{
+        width: 50%;
+        height: 30px;
+        margin-left: 4%;
+    
+        
+      }
+      .respo-left-icon i{
+        color: #fff;
+        font-size: x-large;
+
+      }
+      .respo-right-icon{
+        text-align: end;
+        width: 50%;
+        height:30px;
+        margin-right: 4%;
+
+      }
+      .respo-right-icon i{
+        color: #fff;
+        font-size: x-large;
+      }
+
+
+      /* section 1 end  */
+
+      /* section2  */
+    .head2{
+        display: none;
+    }
+       
+      #respo-sec2{
+        display:block;
+        display: flex;
+        width: 100%;
+        height: 60px;
+        background-color:  #0e382c;
+        align-items: center;
+        
+      }   
+      .respo-h4{
+        width: 70%;
+        height: 33px;
+        margin-left: 5%;
+      }
+      #respo-sec2 h4{
+        font-size:0.85rem;
+        color: #fff;
+      } 
+      
+      .respo-btn{
+        width: 30%;
+        height: 33px;
+        padding-left: 3%;
+    
+        
+      }
+      .respo-btn button{
+        font-size: 0.85rem;
+        font-weight: 400;
+        background-color: #0e382c;
+        color:#fff ;
+        border-radius: 80px;
+        border: 1px solid #fff;
+        padding: 5px 9px;
+
+      }
+
+      /* section 2 end  */
+
+
+
+
+      /* section 3start  */
+#respo-sec3{
+    width: 100%;
+    height: 200px;
+    border: 1px solid red;
+    display: flex;
+    
+    justify-content: center;
+    background-color: rgba(0, 0 ,0 ,0.5);
+}
+.respo-cntnt{
+    width: 100%;
+    background-image: url(iamges/sec4\ img.webp);
+    background-color: rgba(0, 0 ,0 ,0.5);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+    
+.respo-cntnt P{
+    color: #fff;
+    font-size: small;
+    text-align: center;
+    line-height: 3;
+}
+
+.respo-cntnt h5{
+    margin-left: 5%;
+    color: #fff;
+
+}
+.respo-cntnt span{
+    font-size: small    ;
+    position: relative;
+    left: 65%;
+    bottom:16%;
+color: #fff;
+}
+.last-para {
+    
+    position: relative;
+    top: 33%;
+}
+
+/* section 3 end */
+
+
+
+/* section 4 start */
+
+.hero-sec {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+
+  }
+  
+  .heading1 {
+    color: #1e3932;
+    margin-top: 10%;
+  }
+  .heading1 h1{
+    font-size:1.6rem;
+    font-weight: 900;
+  }
+  .box1{
+    margin-top: 10%;
+  }
+  
+  .box1 img {
+    border-radius: 79px;
+    border: 1px solid #fff;
+    width: 100px;
+    height: 100px;
+    
+  }
+  .hero-respo-image{
+    margin-left: 2%;
+  }
+  .text {
+    font-weight: 700;
+    text-align: center;
+  }
+
+/* section 4 end   */
+
+
+  /* section 5 start  */
+.content-sec1 {
+  width: 100%;
+  height: 300px;
+  background-color: #EDEBE9;
+  margin-top: 12%;
+  
+}
+
+.row1 {
+  width: 100%;
+ 
+}
+
+.row1 h2 {
+  width:100%  ;
+  color: #1E3932;
+  font-weight: 900;
+  margin-left: 5%;
+}
+
+.menu {
+  width:30% ;
+}
+
+.menu{
+
+  text-align: center;
+  font-weight: 900;
+  position: relative;
+  top:50%;
+  
+}
+
+
+/* content secton 5end */
+
+
+
+/* SECTION 6 START  */
+.respo-box {
+  width: 100%;
+  height: 160px;
+  display: flex;
+  margin-top: 3%;
+  flex-wrap: wrap;
+}
+
+.respo-box1 {
+  width: 95%;
+  height: 170px;
+  border: 1px solid grey;
+  border-radius: 0.55rem;
+}
+
+.respo-card1 {
+  width: 100%;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.respo-cardimg {
+  border: 1px solid #000;
+  width: 20%;
+  height: 80px;
+  background-image: url(iamges/card1);
+  background-size: cover;
+  border-radius: 0.50rem;
+}
+
+.respo-cardbody {
+  width: 70%;
+}
+
+.respo-1bottom {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+}
+
+.respo-1bottom button {
+  border-radius: 5rem;
+  padding: 0.40rem 1rem;
+  background-color: #2e754a;
+  color: #fff;
+  font-weight: 700;
+  border: none;
+}
+
+.respo-1bottom h4 {
+  width: 60%;
+  margin-top: 2%;
+}
+
+.sec2-box{
+  display: none;
+}
+.menu{
+  display: none;
+}
+
+.respo-h6{
+  width: 40%;
+position: relative;
+left: 28%;
+top: 15%;
+
+}
+.respo-h6 h6{
+  font-size: 1rem;
+  border-radius: 50px;
+  padding: 10px ;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+}
+
+/* SECTION 6END  */
+
+
+
+/* section 7 start  */
+.dashboard-banner {
+  width: 100%;
+  height:25   0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dashboard-card {
+  width: 95%;
+  height: 220px;
+  display: flex;
+  background-color: #0e382c;
+  align-items: center;
+  border-radius: 1rem;
+}
+
+.leftimg {
+  width: 130px;
+  height: 180PX;
+  margin-top: 1%;
+  background-image: url(iamges/starbucks\ back.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.dashboard-cntnt {
+  width: 100%;
+  height: 195px;
+
+}
+
+.dashboard-cntnt p {
+  margin-top: 3%;
+  font-weight: 400;
+  color: #fff;
+}
+
+.btn-head {
+  position: relative;
+  left: 40%;
+  
+
+}
+
+.dashboard-card .btn2{
+  position: relative;
+  left: 35%;
+  top: 15%;
+  background-color: #00754A;
+  border: none;
+  border-radius: 3rem;
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff; 
+  padding: 2% 5%;
+
+}
+
+/* section 7 content end/ */
+
+
+
+
+  .respo-hide{
+    display:none;
+  }
+
+
+  /* section 8 start  */
+  .sec4-box1 {
+    width: 95%;
+    height: auto;
+    border-radius: 2%;
+    border: 2px solid #EDEBE9;
+  
+  }
+
+  /* section 8 end  */
+
+
+  /* section 9 start  */
+
+
+  .heading-8 {
+    width: 90%;
+    height: auto;
+    color: #1e3932;
+    font-size: 1.5rem;
+    font-weight: bolder;
+  }
+  
+  .head-9content {
+    width: 50%;
+  }
+  .head-9content span{
+    width: 100%;
+  }
+  
+  .side-right-cntnt {
+    color: #00754A;
+    font-size: large;
+    width: 10%;
+    height: auto;
+    display: none;
+  }
+  
+
+
+
+  #sec5-main{
+    width: 100%;
+    height: auto;
+    background-color: #EDEBE9;
+    padding-top: 2%;
+    margin-top: 5%;
+    padding-bottom:2% ;
+  
+  }
+  
+  .sec-5 {
+    width: 100%;
+    height: 400px;
+    border: 1px solid#000;
+    background-image: url(iamges/back\ jpg.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  .sec5-background{
+    width:100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-top:3%;
+
+  }
+
+  
+.sec-5 p {
+  width: 40%;
+  border: 1px solid #000;
+  color: #009b6f;
+  font-weight: 600;
+  background-color: #fff;
+  font-size: 0.95rem;
+  border-radius: 5px;
+  text-align: center;
+  padding: 2px 2px;
+  letter-spacing: 0.35px;
+  display: none;
+
+}
+
+#sec5-head {
+  position: relative;
+  top: 40%;
+  width: 100%;
+  height: auto;
+
+
+}
+
+#sec5-head h5 {
+  font-size: x-large;
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+#sec5-head span {
+  color: #fff;
+}
+
+#sec5-head button {
+  display: block;
+  padding: 10px 54px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 30px;
+}
+
+}
+
+
